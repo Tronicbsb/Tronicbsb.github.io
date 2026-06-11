@@ -22,5 +22,17 @@
         "8F:95:DE:B5:1C:F6:DE:39:FF:B3:31:5A:10:F1:76:AC:EC:89:FA:31:70:2A:44:05:DA:8E:7B:88:D6:11:15:35"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tronicbsb.magicjumpstart",
+      "sha256_cert_fingerprints": [
+        "4D:1F:ED:34:F1:07:E4:18:4C:AD:FE:EA:49:7E:FC:90:50:35:B0:58:4C:26:A6:E0:DB:F4:CC:FF:D7:38:D1:1F"
+      ]
+    }
   }
 ]
